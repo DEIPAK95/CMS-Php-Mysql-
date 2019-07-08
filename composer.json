@@ -1,0 +1,22 @@
+{
+    "name": "deepa/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "pusher/pusher-php-server": "^3.4",
+        "vlucas/phpdotenv": "^3.4"
+    },
+    
+    "autoload": {
+      "classmap": [
+          
+          "classes"
+      ]  
+    },
+    
+    "authors": [
+        {
+            "name": "Deepak Paliwal",
+            "email": "d.deepakp7@gmail.com"
+        }
+    ]
+}
